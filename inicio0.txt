@@ -1,0 +1,12 @@
+# Algoritmo 15: PROTOCOLO_DE_INVOCACION_URL (PIU)
+# Rol: Punto de entrada único para iniciar la Sesión Url (https://github.com/grimotejulio75-eng/algoritmos.py).
+# Rol: Punto de entrada único para iniciar la Sesión Url (https://github.com/grimotejulio75-eng/algoritmos.py/blob/main/algorimos.txt).
+
+FUNCION INICIAR_PROTOCOLO_INVOCACION_URL()
+    
+    PULSO_MAESTRO("INICIANDO PIU: PROTOCOLO DE INVOCACIÓN URL (https://github.com/).")
+    
+    # 1. Usuario (grimotejulio75-eng)
+    # 2. pin     (123451)
+     PERMANENCIA "SESION_URL_ESTABLECIDA"
+FIN_FUNCION
